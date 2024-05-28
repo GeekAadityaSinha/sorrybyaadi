@@ -37,7 +37,6 @@ body {
   transition: transform 0.25s linear;
 }
 
-/* Lid when closed */
 .lid.one {
   border-top: 100px solid #658ced;
   transform: rotateX(0deg);
